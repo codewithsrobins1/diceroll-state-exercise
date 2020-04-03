@@ -4,7 +4,7 @@ This is a short exercise on using react state with class components. The two di 
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/diceroll-state-exercise/blob/master/readMeImg.PNG?raw=true)
 
 ### Built With
 
